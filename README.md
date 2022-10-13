@@ -8,11 +8,16 @@
   <a href="#-how-to-run">How to run</a>
 </p>
 
-<p align="center">
-  <a href="https://ninxe.github.io/ignite-lab-design-system/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Ignite Lab 03&message=Storybook&color=8257E5&labelColor=000000" alt="Ignite Lab #03" />
+<div align="center">
+  <a href="https://ninxe-ignite03.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Show&message=Project&color=8257E5&labelColor=000000" alt="Project" title="Project" />
   </a>
-</p>
+</div>
+<div align="center">
+  <a href="https://ninxe.github.io/ignite-lab-design-system/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Show&message=Storybook&color=8257E5&labelColor=000000" alt="Storybook" title="Storybook" />
+  </a>
+</div>
 
 <br />
 
